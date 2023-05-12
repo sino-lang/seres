@@ -35,9 +35,9 @@ def new(package_name):
 @cli.command()
 def run():
     """Run a new package"""
-    click.echo(f'Running of the local package')
+    click.echo('Running of the local package')
 
 
-# if __name__ == '__main__':
-#     cli()
+if __name__ == '__main__':
+    cli()
 
