@@ -1,2 +1,2 @@
-# spm
+# seres
 Sino Package Manager
